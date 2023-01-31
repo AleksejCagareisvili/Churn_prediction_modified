@@ -1,5 +1,5 @@
 # Churn_prediction_modified
-Churn prediction problem
+Churn prediction problem (Machine Learning)
 
 This task is presented in Kaggle (https://www.kaggle.com/competitions/churn-prediction-dw-final)
 
